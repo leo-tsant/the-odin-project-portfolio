@@ -51,4 +51,4 @@ This chapter covers the basics and advanced concepts of React.
 
 ### NodeJS
 
-I am currently working on this chapter, exploring NodeJS and server-side programming.
+-   **[Inventory Application](https://github.com/leo-tsant/pokeventory)**
